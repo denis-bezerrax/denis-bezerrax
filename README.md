@@ -8,6 +8,7 @@
   <img alt="top langs" align="left" width="42%" src="https://github-stats-extended.vercel.app/api/top-langs?username=denis-bezerrax&layout=compact&langs_count=4&theme=github_dark"/>
 </div>
 <br clear="both">
+<br clear="both">
 <div>
   <img align="center" width="50" height="50" alt="HTML" src="https://github.com/user-attachments/assets/ce49078a-7dd1-4983-bd1c-d2ddd58688db" />
   <img align="center" width="50" height="50" alt="CSS" src="https://github.com/user-attachments/assets/d83e47b1-5e3b-4f16-950b-2d21edab7172" />
