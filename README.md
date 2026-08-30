@@ -8,7 +8,7 @@
   <img alt="top langs" align="left" width="42%" src="https://github-stats-extended.vercel.app/api/top-langs?username=denis-bezerrax&layout=compact&langs_count=4&theme=github_dark"/>
 </div>
 <br clear="both">
-<br clear="both"> 
+<br clear="both">
 
 ## Linguagens e Habilidades
 <div>
