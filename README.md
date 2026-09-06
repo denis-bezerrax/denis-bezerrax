@@ -10,7 +10,7 @@
 <br clear="both">
 <br clear="both">
 
-## Linguagens e Habilidades
+## 🛠 Linguagens e Habilidades
 <div>
   <img align="center" width="50" height="50" alt="HTML" src="https://github.com/user-attachments/assets/ce49078a-7dd1-4983-bd1c-d2ddd58688db" />
   <img align="center" width="50" height="50" alt="CSS" src="https://github.com/user-attachments/assets/d83e47b1-5e3b-4f16-950b-2d21edab7172" />
