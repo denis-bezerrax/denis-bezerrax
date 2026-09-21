@@ -12,8 +12,12 @@
 
 ## Linguagens e Habilidades
 <div>
-  <img align="center" width="50" height="50" alt="HTML" src="https://github.com/user-attachments/assets/ce49078a-7dd1-4983-bd1c-d2ddd58688db" />
-  <img align="center" width="50" height="50" alt="CSS" src="https://github.com/user-attachments/assets/d83e47b1-5e3b-4f16-950b-2d21edab7172" />
-  <img align="center" width="50" height="50" alt="JavaScript" src="https://github.com/user-attachments/assets/bae6ae98-8e7e-493d-b51d-8d03d6f1f317" />
-  <img align="center" width="50" height="50" alt="Python" src="https://github.com/user-attachments/assets/4bc703be-633d-4dbf-9d26-170eca8a7544" />
+  <img align="center" width="50" height="50" alt="HTML" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />
+  <img align="center" width="50" height="50" alt="CSS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />
+  <img align="center" width="50" height="50" alt="JavaScript" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" />
+  <img align="center" width="50" height="50" alt="Python" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" />
+  <img align="center" width="50" height="50" alt="VsCode" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" />
+  <img align="center" width="50" height="50" alt="Git" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" />
+  <img align="center" width="50" height="50" alt="Linux" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" />
+  <img align="center" width="50" height="50" alt="Debian" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Debian-Dark.svg" />
 </div>
