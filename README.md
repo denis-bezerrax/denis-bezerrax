@@ -10,7 +10,7 @@
 <br clear="both">
 <br clear="both">
 
-## Linguagens e Habilidades
+## Linguagens e Ferramentas
 <div>
   <img align="center" width="50" height="50" alt="HTML" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />
   <img align="center" width="50" height="50" alt="CSS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />
