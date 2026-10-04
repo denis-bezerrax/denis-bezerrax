@@ -1,7 +1,7 @@
 ## Olá, sou o Denis Bezerra 👋
 
 - 🎓 Estudante de Ciência da Computação na FIAP
-- 📚 No momento estou estudando Python
+- 📚 No momento estou estudando a linguagem C
 
 <div>
   <img alt="Estatísticas" align="left" width="47%" src="https://github-stats-extended.vercel.app/api?username=denis-bezerrax&show_icons=true&include_all_commits=true&theme=github_dark"/>
@@ -16,6 +16,7 @@
   <img align="center" width="50" height="50" alt="CSS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />
   <img align="center" width="50" height="50" alt="JavaScript" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" />
   <img align="center" width="50" height="50" alt="Python" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" />
+  <img align="center" width="50" height="50" alt="C" src="https://github.com/tandpfun/skill-icons/raw/main/icons/C.svg" />
   <img align="center" width="50" height="50" alt="VsCode" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" />
   <img align="center" width="50" height="50" alt="Git" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" />
   <img align="center" width="50" height="50" alt="Linux" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" />
